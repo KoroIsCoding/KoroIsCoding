@@ -11,5 +11,6 @@
 
 
 # Project
-Contributed to PyTorch-NLP
-Microservice emmbbed application: music sharing system
+-Contributed to PyTorch-NLP
+
+-Microservice emmbbed application: music sharing system
